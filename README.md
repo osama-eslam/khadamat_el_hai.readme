@@ -74,7 +74,7 @@
 
 ## ⚡ Key Metrics & Analytics
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=osama-eslam&theme=tokyonight&border_radius=12" width="450">
+  <img src="https://streak-stats.demolab.com/?user=osama-eslam&theme=tokyonight&border_radius=12" width="451">
 </p>
 
 ---
