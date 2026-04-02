@@ -28,33 +28,20 @@
 
 ---
 
-## 🔥 Key Features | المميزات الرئيسية
-
-### 👤 For Customers (العملاء)
-* **📍 Smart Discovery:** Precision filtering by location, service type, and verified ratings.
-* **🛡️ Verified Professionals:** Access to deep portfolios and authentic customer feedback.
-* **💬 Instant Sync:** Real-time **In-App Chat** for rapid, secure coordination.
-
-### 👷 For Craftsmen (مقدمي الخدمات)
-* **📈 Business Engine:** A powerful dashboard to showcase expertise and manage growth.
-* **🌍 Hyper-Local Reach:** Connect directly with high-intent customers in your immediate area.
-
----
-
 ## 📸 App Showcase (UI/UX)
 <p align="center">
   <table align="center" style="border: none; background: transparent;">
     <tr>
       <td align="center" style="border: none;">
-        <img src="./screenshot/1.png" width="260" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+        <img src="./screenshot/1.png" width="260" style="border-radius: 15px;">
         <br><b>Home Interface</b>
       </td>
       <td align="center" style="border: none;">
-        <img src="./screenshot/2.png" width="260" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+        <img src="./screenshot/2.png" width="260" style="border-radius: 15px;">
         <br><b>Provider Profile</b>
       </td>
       <td align="center" style="border: none;">
-        <img src="./screenshot/3.png" width="260" style="border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+        <img src="./screenshot/3.png" width="260" style="border-radius: 15px;">
         <br><b>Secure Chat</b>
       </td>
     </tr>
@@ -63,20 +50,16 @@
 
 ---
 
-## 🛠️ Engineering Standards
-* **Framework:** Flutter & Dart (Native Performance).
-* **Backend:** Firebase (Real-time DB, Auth, Cloud Functions).
-* **Security:** Proprietary data encryption and secure API handling.
-
----
-
 ## 👤 Developer | المطور
 **Osama Islam (ElDeep)**
 *Principal Mobile Application Developer*
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/osama-islam-eldeeb/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_Professional-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/osama-islam-7627a8321">
+    <img src="https://img.shields.io/badge/LinkedIn-Official_Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://osamaeldeepdev.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Personal_Website-black?style=for-the-badge&logo=netlify" alt="Website">
   </a>
 </p>
 
