@@ -4,9 +4,7 @@
 
 <h1 align="center">🏘️ KHADAMAT EL-HAI | خدمات الحي</h1>
 
-<p align="center">
-  <b>"The ultimate bridge between skilled craftsmen and local customers. Fast, Secure, and Neighborhood-focused."</b>
-</p>
+
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.eldeep.khadamat_el_hai">
