@@ -1,8 +1,12 @@
-https://play.google.com/store/apps/details?id=com.eldeep.khadamat_el_hai
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3MxOGo1ZXk0OHNyY28zZGN1cTdianJ3OG04N2FxNGF6Zm1iam04YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mJkd1TOUoELvK00NJz/giphy.gif" width="300" style="border-radius: 50%; box-shadow: 0 0 25px rgba(46,204,113,0.3);">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=🏆%20Khadamat%20El-Hai&fontAlign=50&fontAlignY=40&color=2ecc71&customColorList=2,3,5,8,15,20&animation=twinkling" alt="Khadamat El-Hai Banner"/>
 </p>
 
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.eldeep.khadamat_el_hai">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3MxOGo1ZXk0OHNyY28zZGN1cTdianJ3OG04N2FxNGF6Zm1iam04YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mJkd1TOUoELvK00NJz/giphy.gif" width="300" style="border-radius: 50%; box-shadow: 0 0 25px rgba(46,204,113,0.3);">
+  </a>
+</p>
 
 <p align="center">
   <b>"The ultimate platform for finding local craftsmen and service providers with speed and ease."</b>
