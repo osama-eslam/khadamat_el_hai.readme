@@ -49,11 +49,11 @@
         <br><b>Service Explorer</b>
       </td>
       <td align="center" style="border: none;">
-        <img src="./screenshot/4.png" width="260" style="border-radius: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.35);">
+        <img src="./screenshot/2.png" width="260" style="border-radius: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.35);">
         <br><b>Craftsman Profile</b>
       </td>
       <td align="center" style="border: none;">
-        <img src="./screenshot/3.png" width="260" style="border-radius: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.35);">
+        <img src="./screenshot/r33.png" width="260" style="border-radius: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.35);">
         <br><b>Direct Chat</b>
       </td>
     </tr>
