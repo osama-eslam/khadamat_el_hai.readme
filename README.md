@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=🏆%20EduRivals%20Mastery&fontAlign=50&fontAlignY=40&color=00b4d8&customColorList=2,3,5,8,15,20&animation=twinkling" alt="EduRivals Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=🏆%20Khadamat%20El-Hai&fontAlign=50&fontAlignY=40&color=00b4d8&customColorList=2,3,5,8,15,20&animation=twinkling" alt="Khadamat El-Hai Banner"/>
 </p>
 
 <p align="center">
@@ -8,11 +8,11 @@
 
 
 <p align="center">
-  <b>"Redefining learning: Fast, Competitive, and Scalable Academic Excellence."</b>
+  <b>"المنصة المثالية للعثور على الحرفيين ومقدمي الخدمات في منطقتك بسهولة وسرعة."</b>
 </p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.edurivals.app123">
+  <a href="https://play.google.com/store/apps/details?id=com.eldeep.khadamat_el_hai">
     <img src="https://img.shields.io/badge/Status-Live%20on%20Google%20Play-brightgreen?style=for-the-badge&logo=google-play" alt="Status">
   </a>
   <img src="https://img.shields.io/badge/Platform-Android-blue?style=for-the-badge&logo=android" alt="Platform">
@@ -23,7 +23,7 @@
 ---
 
 ## 📖 Project Overview
-**EduRivals** transforms conventional education into a **high-performance gamified ecosystem**. Students engage in progressive 10-level challenges with real-time **national leaderboards**, driving mastery and motivation.
+**تطبيق خدمات الحي** هو جسر التواصل بين العملاء والحرفيين (سباكة، كهرباء، نجارة، إلخ). يهدف التطبيق إلى تسهيل الوصول لمقدمي الخدمة الأقرب إليك مع ضمان الجودة والأمان من خلال نظام تقييمات دقيق وتواصل مباشر عبر الشات الداخلي.
 
 > [!INFO]
 > **🛡️ Confidential & Proprietary:** > Source code is **private**. This repository highlights **UI/UX design excellence** and **technical engineering capabilities**.
@@ -32,11 +32,11 @@
 
 ## 🚀 Core Engineering Features
 
-* **🎮 Gamified Ecosystem:** Study sessions become **engaging competitive experiences**.
-* **⚡ Real-Time Sync Engine:** Instant leaderboard updates with **optimized network streaming**.
-* **📊 Granular Analytics:** Comprehensive performance tracking to identify strengths and growth areas.
-* **🛡️ Enterprise-Level Security:** Backend designed for **data integrity** and **unauthorized access prevention**.
-* **📱 Premium UI/UX:** Sleek dark-mode interface for **optimal focus** and minimal eye strain.
+* **🛠️ Marketplace Ecosystem:** يتيح للحرفيين عرض أعمالهم، أسعارهم، ومناطق تواجدهم بسهولة.
+* **💬 Direct Communication:** نظام شات داخلي واتصال هاتفي مباشر لتنسيق المواعيد بسرعة.
+* **📍 Location-Based Discovery:** فلترة النتائج حسب الموقع الجغرافي للوصول لأقرب مقدم خدمة.
+* **⭐ Quality Assurance:** نظام تقييم ومراجعات لضمان الشفافية واختيار الأفضل بناءً على تجارب المستخدمين.
+* **📱 Premium UI/UX:** واجهة بسيطة وسلسة مصممة لتجربة مستخدم مريحة (Dark Mode) تدعم سهولة التصفح.
 
 ---
 
@@ -46,15 +46,15 @@
     <tr>
       <td align="center" style="border: none;">
         <img src="./screenshot/1.png" width="260" style="border-radius: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.35);">
-        <br><b>Arena Dashboard</b>
+        <br><b>Service Explorer</b>
       </td>
       <td align="center" style="border: none;">
         <img src="./screenshot/4.png" width="260" style="border-radius: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.35);">
-        <br><b>Subject Progress Tracker</b>
+        <br><b>Craftsman Profile</b>
       </td>
       <td align="center" style="border: none;">
         <img src="./screenshot/3.png" width="260" style="border-radius: 20px; box-shadow: 0 8px 25px rgba(0,0,0,0.35);">
-        <br><b>National Leaderboard</b>
+        <br><b>Direct Chat</b>
       </td>
     </tr>
   </table>
@@ -66,7 +66,7 @@
 
 * **Framework:** Flutter (Clean Architecture, Dart)
 * **State Management:** BLoC / Provider (Stream-optimized)
-* **Backend:** Firebase (Firestore, Auth, Storage)
+* **Backend:** Firebase (Firestore, Auth, Storage, Cloud Messaging)
 * **Performance:** 60 FPS, **smooth rendering** with optimized network layers
 
 ---
