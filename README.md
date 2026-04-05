@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=🏆%20Khadamat%20El-Hai&fontAlign=50&fontAlignY=40&color=00b4d8&customColorList=2,3,5,8,15,20&animation=twinkling" alt="Khadamat El-Hai Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=🏆%20Khadamat%20El-Hai&fontAlign=50&fontAlignY=40&color=2ecc71&customColorList=2,3,5,8,15,20&animation=twinkling" alt="Khadamat El-Hai Banner"/>
 </p>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3MxOGo1ZXk0OHNyY28zZGN1cTdianJ3OG04N2FxNGF6Zm1iam04YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mJkd1TOUoELvK00NJz/giphy.gif" width="300" style="border-radius: 50%; box-shadow: 0 0 25px rgba(0,255,0,0.3);">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3MxOGo1ZXk0OHNyY28zZGN1cTdianJ3OG04N2FxNGF6Zm1iam04YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mJkd1TOUoELvK00NJz/giphy.gif" width="300" style="border-radius: 50%; box-shadow: 0 0 25px rgba(46,204,113,0.3);">
 </p>
 
 
 <p align="center">
-  <b>"المنصة المثالية للعثور على الحرفيين ومقدمي الخدمات في منطقتك بسهولة وسرعة."</b>
+  <b>"The ultimate platform for finding local craftsmen and service providers with speed and ease."</b>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 ---
 
 ## 📖 Project Overview
-**تطبيق خدمات الحي** هو جسر التواصل بين العملاء والحرفيين (سباكة، كهرباء، نجارة، إلخ). يهدف التطبيق إلى تسهيل الوصول لمقدمي الخدمة الأقرب إليك مع ضمان الجودة والأمان من خلال نظام تقييمات دقيق وتواصل مباشر عبر الشات الداخلي.
+**Khadamat El-Hai** (Neighborhood Services) is a comprehensive marketplace connecting users with local skilled professionals such as electricians, plumbers, and carpenters. The app bridges the gap between community needs and professional services, ensuring security, transparency, and high-quality results through direct communication and verified reviews.
 
 > [!INFO]
 > **🛡️ Confidential & Proprietary:** > Source code is **private**. This repository highlights **UI/UX design excellence** and **technical engineering capabilities**.
@@ -32,11 +32,11 @@
 
 ## 🚀 Core Engineering Features
 
-* **🛠️ Marketplace Ecosystem:** يتيح للحرفيين عرض أعمالهم، أسعارهم، ومناطق تواجدهم بسهولة.
-* **💬 Direct Communication:** نظام شات داخلي واتصال هاتفي مباشر لتنسيق المواعيد بسرعة.
-* **📍 Location-Based Discovery:** فلترة النتائج حسب الموقع الجغرافي للوصول لأقرب مقدم خدمة.
-* **⭐ Quality Assurance:** نظام تقييم ومراجعات لضمان الشفافية واختيار الأفضل بناءً على تجارب المستخدمين.
-* **📱 Premium UI/UX:** واجهة بسيطة وسلسة مصممة لتجربة مستخدم مريحة (Dark Mode) تدعم سهولة التصفح.
+* **🛠️ Service Marketplace:** Craftsmen can showcase portfolios, set pricing, and manage their working zones effortlessly.
+* **💬 Real-Time Communication:** Integrated in-app chat and direct call features for seamless appointment scheduling.
+* **📍 Geolocation Discovery:** Advanced filtering system to find the nearest service providers based on the user's location.
+* **⭐ Quality Control:** A transparent rating and review system that ensures high service standards and builds community trust.
+* **📱 Premium UI/UX:** A sleek, dark-themed interface optimized for performance and focused user experience.
 
 ---
 
